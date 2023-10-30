@@ -1,0 +1,48 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline;
+    padding: 0px 300px;
+}
+
+.banner{
+    color: rgb(139, 11, 11);
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+.image{
+    display: block; 
+    margin: 0 auto; 
+    max-width: 50%; 
+    height: auto; 
+}
+
+
+  .table{
+    margin-top: 100px;
+  }
+
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 150px;
+  }
+
+.form-group {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.blue-button{
+  background-color: blue;
+  color: white;
+}
